@@ -1,0 +1,7 @@
+{
+    "env":{
+        "url" : "http://ruangauction.com",
+        "correctEmail" : "buyer.auc@gmail.com",
+        "correctPass" : "Qwerty123@"
+    }
+}
